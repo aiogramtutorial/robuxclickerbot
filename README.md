@@ -1,3 +1,3 @@
 # robuxclickerbot
 robuxclickerbot on aiogram
-requirements : a brain
+# requirements : a brain
